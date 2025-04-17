@@ -58,7 +58,7 @@
 
 ## 🖼️ 神殿の写真
 
-<img src="Ganesha_bookshelf_temple.jpeg" width="400">
+<img src="Ganesha_bookshelf_temple.jpeg" width="500">
 
 ---
 
